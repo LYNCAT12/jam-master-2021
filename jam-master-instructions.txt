@@ -1,0 +1,12 @@
+install node.js on your pc or laptop. 
+.
+.
+after you've done that open your cmd in the file location of jam master.
+.
+.
+.
+you need to get animaljam in your web browser, I did this by using an old firefox version with flash. you need to block classic.animaljam.com
+or it will redirect you there and search ""animal jam create an account"" go to the animal jam create account and login to your account. you can follow the instructions of
+jam master from there. if you cant understand this then this program isnt for you
+...
+i am working on rewriting jam master currently.
